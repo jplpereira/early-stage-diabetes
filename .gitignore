@@ -1,0 +1,4 @@
+# Ignorando os checkpoints
+.ipynb_checkpoints
+
+# Arquivo do dataset não ignorado por ser bem pequeno
