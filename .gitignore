@@ -1,4 +1,7 @@
 # Ignorando os checkpoints
 .ipynb_checkpoints
 
+# Ignorando o arquivo zip
+*.zip
+
 # Arquivo do dataset não ignorado por ser bem pequeno
