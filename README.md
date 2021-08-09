@@ -35,3 +35,7 @@ O case consiste na análise de um conjunto de dados usando preferencialmente a l
 * Uma apresentação focada no cliente, que traga os insights de forma didática para pessoas não técnicas;
 * Conjunto de arquivos de códigos e documentações (no formato que julgar conveniente compartilhar) focadas em pessoas técnicas que poderiam dar continuidade ao trabalho de desenvolvimento e/ou produtização de forma independente.
 
+### Link para apresentação
+
+[Google Slides](https://docs.google.com/presentation/d/19HtufCzYrg7ylY09MX-Yavmgt30ZrVMCvRyDX2z5aIg/edit#slide=id.ge7fc249de6_0_73)
+
